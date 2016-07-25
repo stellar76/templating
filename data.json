@@ -1,0 +1,72 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Cooper",
+        "email": "jcooper0@desdev.cn",
+        "state": "California",
+        "zip_code": "92710"
+    },
+    {
+        "first_name": "Kathleen",
+        "last_name": "Green",
+        "email": "kgreen1@qq.com",
+        "state": "Texas",
+        "zip_code": "77015"
+    },
+    {
+        "first_name": "Brenda",
+        "last_name": "Shaw",
+        "email": "bshaw2@histats.com",
+        "state": "California",
+        "zip_code": "90065"
+    },
+    {
+        "first_name": "Christina",
+        "last_name": "Marshall",
+        "email": "cmarshall3@wikipedia.org",
+        "state": "California",
+        "zip_code": "90605"
+    },
+    {
+        "first_name": "Katherine",
+        "last_name": "Knight",
+        "email": "kknight4@alibaba.com",
+        "state": "Arizona",
+        "zip_code": "85219"
+    },
+    {
+        "first_name": "Irene",
+        "last_name": "Simmons",
+        "email": "isimmons5@t-online.de",
+        "state": "New York",
+        "zip_code": "10165"
+    },
+    {
+        "first_name": "Jesse",
+        "last_name": "Baker",
+        "email": "jbaker6@flavors.me",
+        "state": "New York",
+        "zip_code": "11225"
+    },
+    {
+        "first_name": "Earl",
+        "last_name": "Mason",
+        "email": "emason7@cpanel.net",
+        "state": "Illinois",
+        "zip_code": "61709"
+    },
+    {
+        "first_name": "Jimmy",
+        "last_name": "Harper",
+        "email": "jharper8@unc.edu",
+        "state": "Tennessee",
+        "zip_code": "37235"
+    },
+    {
+        "first_name": "Jose",
+        "last_name": "Boyd",
+        "email": "jboyd9@discovery.com",
+        "state": "Georgia",
+        "zip_code": "30386"
+    }
+]
